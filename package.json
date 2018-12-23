@@ -1,13 +1,13 @@
 {
   "name": "ember-simple-auth-firebase",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember Simple Auth extension for Firebase",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/mikkopaderes/ember-simple-auth-firebase",
   "license": "MIT",
-  "author": "",
+  "author": "Mikko Paderes",
   "directories": {
     "doc": "doc",
     "test": "tests"

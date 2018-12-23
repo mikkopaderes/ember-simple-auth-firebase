@@ -1,7 +1,7 @@
 ember-simple-auth-firebase
 ==============================================================================
 
-[Short description of the addon.]
+Ember Simple Auth extension for Firebase
 
 Installation
 ------------------------------------------------------------------------------
